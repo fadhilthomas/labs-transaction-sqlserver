@@ -1,1 +1,2 @@
-# desktop-sales_transaction_sql_server_database
+# Desktop_SalesTransactionSQLServerDatabase
+Sales Transactions Desktop App w/ SQL Server Database
